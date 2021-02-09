@@ -1,5 +1,5 @@
 ---
-title: "Markup: HTML Elements and Formatting"
+title: "First Post"
 sub_title: "The common elements"
 categories:
   - Markup
