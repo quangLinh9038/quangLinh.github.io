@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  quangLinh9038
 
 # Build settings
-theme: jekyll-theme-so-simple
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
